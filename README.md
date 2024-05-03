@@ -15,4 +15,8 @@ As part of my application to GaTech Fintech Lab
 - GaTech_Asgn_Gradio = Fully functionized solution with basic comments and docstrings, with a demo hosted via Gradio (basic I/O)
 - GaTech_Asgn_Raw = First version of proposed solution, no OOPS/Functional programming, used as base for the final version
 
+*** Detailed Pipeline (including rationales, alternatives)***
+
+1. - Overall Stack = Langchain, OpenAI, Gradio
+
 
