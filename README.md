@@ -55,16 +55,18 @@ As part of my application to GaTech Fintech Lab
 
 ---
 
-# Screenshots of sample I/O
+# Sample I/O
 
-## 1. Apple with default prompt asking about 2 years of data
+## 1. [VID] Microsoft with custom prompt asking about 3 years of data
+
+https://github.com/keshavnath/fin-llm-insights/assets/64905218/a6728636-385b-470d-a0f6-0fa1c009b855
+
+_Note: The gradio demos often have speed issues as they're hosted on a google colab instance_
+
+## 2. [IMG] Apple with default prompt asking about 2 years of data
 
 ![sample_aapl_default_2y](https://github.com/keshavnath/fin-llm-insights/assets/64905218/6cd06bbe-b569-401e-8046-244688a77893)
 
-## 2. Microsoft with different prompt asking about 3 years of data
-
-![sample_msft_custom_3y](https://github.com/keshavnath/fin-llm-insights/assets/64905218/20ca4237-5619-4a7e-91b7-682287836168)
-
-## 3. Sample of function flow from Apple and Microsoft requests
+## 3. [IMG] Sample of function flow from Apple and Microsoft requests
 
 ![sample_log_outputs_1](https://github.com/keshavnath/fin-llm-insights/assets/64905218/3972bd08-9dbb-464a-8661-10072025f98e)
