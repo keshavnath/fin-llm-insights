@@ -50,7 +50,19 @@ As part of my application to GaTech Fintech Lab
    - Matplotlib: Easiest way to automatically make plots from my Insight objects. Also with Matplotlib I can combine multiple plots into a single figure, and that figure can be directly fed into Gradio to display.
 
 
-6. - Note: code contains basic docstrings and comments for all modules
+6. - Note: Code contains basic docstrings and comments for all modules
    - Attached: Image/Video of app usage
+
+---
+
+# Screenshots of sample I/O
+
+## 1. Apple with default prompt asking about 2 years of data
+
+![sample_aapl_default_2y](https://github.com/keshavnath/fin-llm-insights/assets/64905218/6cd06bbe-b569-401e-8046-244688a77893)
+
+## 2. Microsoft with newer prompt asking about 3 years of data
+
+![sample_msft_custom_3y](https://github.com/keshavnath/fin-llm-insights/assets/64905218/20ca4237-5619-4a7e-91b7-682287836168)
 
 
