@@ -1,5 +1,4 @@
-# Company Insight Generator using LLM Inference on SEC 10-K Filings by Keshav Nath
-As part of my application to GaTech Fintech Lab
+# Company Insight Generator using LLM Inference on SEC 10-K Filings
 
 **Summarized pipeline:**
 
